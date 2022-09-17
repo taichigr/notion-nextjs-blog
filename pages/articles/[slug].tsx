@@ -1,5 +1,4 @@
 import {
-  GetServerSideProps,
   GetStaticPaths,
   GetStaticProps,
   NextPage,
